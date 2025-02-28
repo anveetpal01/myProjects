@@ -1,1 +1,4 @@
+These are the two XGBoost models I have trained for treatment prediction:
 
+Severity Prediction Model – This XGBoost machine learning model predicts the severity based on the given input parameters.
+Treatment Prediction Model – This XGBoost model predicts the treatment based on the internally processed input, which includes the output from the severity prediction model.
