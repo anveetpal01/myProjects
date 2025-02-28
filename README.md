@@ -1,21 +1,24 @@
-This are the project made by me under the guidence of my mentor Mr. Yash Gupta sir Senior Lead Engineer of Alveofit.
-I this project I made an api which takes an input of json format and give output in the json format.
-For Example:
+This project was developed under the guidance of my mentor, Mr. Yash Gupta, Senior Lead Engineer at Alveofit.
+
+In this project, I built an API that accepts input in JSON format and returns output in JSON format.
+
+Example:
 Input - 
 {
-"Age" : 43,
-"Gender" : "Male",
-"Smoking" : "Ex-Smoker",
-"Asthma" : "Yes",
-"Symptoms" : "coughing",
-"Peak_Flow" : 221
+  "Age": 43,
+  "Gender": "Male",
+  "Smoking": "Ex-Smoker",
+  "Asthma": "Yes",
+  "Symptoms": "Coughing",
+  "Peak_Flow": 221
 }
 
-Output - 
+Output:
 {
-"Severity" : "high",
-"Treatment" : "Mepolizumab"
+  "Severity": "High",
+  "Treatment": "Mepolizumab"
 }
-Since this model is a trained on limited data so it gives treatment for limited disease only (only 4 disease).
-Also the text of input is has to corrected for getting the output. (Check in encoders.py) 
-Further this model is updated.
+
+The model was trained on a limited dataset, so it provides treatment recommendations for only four diseases.
+The input text must be formatted correctly to generate a valid output. (Refer to encoders.py for details.)
+Future Improvements: The model can be trained on a larger dataset to improve predictions and support more diseases and symptoms.
