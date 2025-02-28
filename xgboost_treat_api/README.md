@@ -24,3 +24,4 @@ Output:
 The model was trained on a limited dataset, so it provides treatment recommendations for only four diseases.
 The input text must be formatted correctly to generate a valid output. (Refer to encoders.py for details.)
 Future Improvements: The model can be trained on a larger dataset to improve predictions and support more diseases and symptoms.
+Note - Read temp file for more detail in each folder.
