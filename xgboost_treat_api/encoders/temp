@@ -1,1 +1,5 @@
+The encoders.py file contains all the code used for encoding and decoding the inputs internally to generate the appropriate output.
 
+Since this API combines two models, the input is first encoded for the severity prediction model. After that, it is reformatted as input for the treatment prediction model.
+
+For more details, refer to encoders.py, it is easy to understand.
