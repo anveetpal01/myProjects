@@ -1,6 +1,4 @@
-This project was developed under the guidance of my mentor, Mr. Yash Gupta, Senior Lead Engineer at Alveofit.
-
-In this project, I built an API that accepts input in JSON format and returns output in JSON format.
+In this project, I built an API that combines two XGBoost machine learning models. The API accepts input in JSON format and returns output in JSON format.
 
 Example:
 Input - 
@@ -12,6 +10,10 @@ Input -
   "Symptoms": "Coughing",
   "Peak_Flow": 221
 }
+
+The input is first processed and encoded , then it passed to the severity prediction  model.
+The input is then encoded and decoded internally to generate a suitable format for the treatment prediction model.
+The final output is generated.
 
 Output:
 {
