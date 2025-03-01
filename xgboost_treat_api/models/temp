@@ -1,4 +1,7 @@
 These are the two XGBoost models I have trained for treatment prediction:
 
-Severity Prediction Model – This XGBoost machine learning model predicts the severity based on the given input parameters.
-Treatment Prediction Model – This XGBoost model predicts the treatment based on the internally processed input, which includes the output from the severity prediction model.
+xgboost_model_severity_pred.pkl – This XGBoost machine learning model predicts the severity based on the given input parameters.
+xgboos_model_treat_pred.pkl – This XGBoost model predicts the treatment based on the internally processed input, which includes the output from the severity prediction model.
+
+xgboost_treat_pred.ipynb - code for treatment prediction model.
+xgboost_asthma_severity.ipynb - code for severity prediction model.
