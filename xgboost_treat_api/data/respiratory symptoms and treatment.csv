@@ -1,0 +1,301 @@
+Age,Gender,Smoking_Status,Asthma_Diagnosis,Peak_Flow,Symptoms,Severity
+26,0,1,3,175,5,0
+52,Female,Ex-Smoker,No,156,Wheezing,None
+56,0,2,3,236,0,2
+55,1,0,3,378,0,0
+43,Female,Current Smoker,No,159,Wheezing,None
+23,Male,Non-Smoker,No,376,No Symptoms,None
+33,Female,Current Smoker,No,296,No Symptoms,None
+20,1,0,3,322,0,0
+36,Male,Current Smoker,No,175,Wheezing,None
+27,Male,Ex-Smoker,No,264,No Symptoms,None
+34,Female,Ex-Smoker,No,240,Coughing,None
+43,Male,Current Smoker,No,354,No Symptoms,None
+51,0,1,3,171,5,0
+54,1,1,3,327,0,2
+22,0,0,3,304,0,0
+53,0,1,3,336,0,0
+39,0,0,3,307,0,0
+34,1,1,3,372,0,0
+51,Male,Current Smoker,No,239,Coughing,None
+37,1,1,3,309,0,0
+52,Female,Ex-Smoker,No,323,No Symptoms,None
+24,Female,Non-Smoker,No,160,Wheezing,None
+56,0,2,3,286,0,0
+23,0,0,3,282,0,0
+58,Male,Non-Smoker,No,248,Coughing,None
+27,Male,Ex-Smoker,No,325,No Symptoms,None
+41,Male,Non-Smoker,No,233,Coughing,None
+27,Male,Current Smoker,No,346,No Symptoms,None
+63,Male,Current Smoker,No,379,No Symptoms,None
+25,0,0,3,207,0,0
+42,1,1,3,168,5,0
+18,Female,Non-Smoker,No,200,Wheezing,None
+22,0,2,3,323,0,2
+54,1,1,3,386,0,0
+22,0,2,3,257,0,0
+34,0,0,3,349,0,0
+20,Male,Current Smoker,No,273,No Symptoms,None
+43,Male,Current Smoker,No,260,No Symptoms,None
+19,Male,Non-Smoker,No,249,Coughing,None
+65,0,1,3,203,0,0
+22,Female,Current Smoker,No,384,No Symptoms,None
+58,0,0,3,253,0,0
+59,1,0,3,383,0,0
+54,1,2,3,202,0,0
+57,0,2,3,310,0,2
+45,Male,Non-Smoker,No,287,No Symptoms,None
+62,Female,Ex-Smoker,No,348,No Symptoms,None
+39,1,1,3,230,0,0
+43,Female,Non-Smoker,No,388,No Symptoms,None
+20,Male,Current Smoker,No,331,No Symptoms,None
+59,Female,Non-Smoker,No,288,No Symptoms,None
+21,Female,Non-Smoker,No,378,No Symptoms,None
+58,Male,Current Smoker,No,284,No Symptoms,None
+23,1,0,3,205,0,0
+48,Male,Current Smoker,No,352,No Symptoms,None
+54,0,2,3,383,0,2
+47,Male,Ex-Smoker,No,267,No Symptoms,None
+50,Male,Non-Smoker,No,269,No Symptoms,None
+64,Female,Ex-Smoker,No,398,No Symptoms,None
+52,Female,Ex-Smoker,No,259,No Symptoms,None
+38,Male,Ex-Smoker,No,307,No Symptoms,None
+28,Male,Ex-Smoker,No,258,No Symptoms,None
+46,1,1,3,194,5,0
+49,Male,Ex-Smoker,No,157,Wheezing,None
+60,1,2,3,207,0,2
+47,1,0,3,382,0,0
+24,0,0,3,151,5,0
+43,Male,Non-Smoker,No,321,No Symptoms,None
+41,0,1,3,260,0,0
+49,Male,Ex-Smoker,No,284,No Symptoms,None
+50,0,1,3,176,5,0
+20,Male,Non-Smoker,No,248,Coughing,None
+58,0,1,3,270,0,2
+28,0,0,3,389,0,0
+39,Male,Non-Smoker,No,357,No Symptoms,None
+65,1,1,3,280,0,2
+43,0,2,3,397,0,2
+32,0,0,3,200,5,0
+63,0,1,3,212,0,0
+58,Female,Ex-Smoker,No,300,No Symptoms,None
+22,0,2,3,294,0,0
+37,1,2,3,358,0,2
+52,0,2,3,198,5,0
+51,1,0,3,263,0,0
+25,0,0,3,200,5,0
+30,Male,Ex-Smoker,No,159,Wheezing,None
+53,Male,Ex-Smoker,No,152,Wheezing,None
+38,Female,Ex-Smoker,No,267,No Symptoms,None
+45,1,0,3,237,0,0
+38,Female,Ex-Smoker,No,286,No Symptoms,None
+23,Male,Non-Smoker,No,363,No Symptoms,None
+36,Female,Non-Smoker,No,380,No Symptoms,None
+38,0,2,3,305,0,0
+34,Male,Current Smoker,No,218,Coughing,None
+29,Female,Non-Smoker,No,185,Wheezing,None
+23,Male,Non-Smoker,No,181,Wheezing,None
+36,Male,Ex-Smoker,No,336,No Symptoms,None
+46,0,1,3,262,0,2
+34,0,1,3,188,5,0
+23,1,2,3,384,0,2
+45,1,2,3,210,0,0
+33,Male,Current Smoker,No,338,No Symptoms,None
+27,Male,Non-Smoker,No,294,No Symptoms,None
+34,Female,Current Smoker,No,301,No Symptoms,None
+27,Male,Ex-Smoker,No,322,No Symptoms,None
+47,0,1,3,263,0,0
+21,1,2,3,308,0,2
+44,0,1,3,377,0,2
+44,1,1,3,289,0,2
+52,Male,Ex-Smoker,No,197,Wheezing,None
+26,1,0,3,337,0,0
+48,1,0,3,346,0,0
+27,1,0,3,385,0,0
+24,Female,Non-Smoker,No,281,No Symptoms,None
+34,Female,Ex-Smoker,No,358,No Symptoms,None
+49,Male,Current Smoker,No,212,Coughing,None
+65,Male,Non-Smoker,No,268,No Symptoms,None
+30,0,1,3,372,0,2
+62,Female,Non-Smoker,No,377,No Symptoms,None
+45,0,0,3,383,0,0
+58,0,1,3,316,0,0
+48,1,1,3,245,0,2
+63,0,2,3,162,5,0
+48,Male,Ex-Smoker,No,348,No Symptoms,None
+51,1,1,3,232,0,2
+26,Female,Current Smoker,No,184,Wheezing,None
+23,Female,Current Smoker,No,182,Wheezing,None
+27,Female,Ex-Smoker,No,215,Coughing,None
+43,Female,Non-Smoker,No,276,No Symptoms,None
+32,0,0,3,357,0,0
+23,0,1,3,390,0,0
+29,0,2,3,295,0,0
+29,Male,Non-Smoker,No,376,No Symptoms,None
+30,Female,Non-Smoker,No,261,No Symptoms,None
+24,Male,Ex-Smoker,No,254,No Symptoms,None
+27,Female,Current Smoker,No,226,Coughing,None
+52,Male,Current Smoker,No,363,No Symptoms,None
+34,Female,Current Smoker,No,381,No Symptoms,None
+29,0,0,3,162,5,0
+52,0,1,3,207,0,0
+24,0,1,3,280,0,0
+41,1,0,3,150,4,0
+65,1,0,3,178,5,0
+33,Male,Ex-Smoker,No,290,No Symptoms,None
+21,1,0,3,376,0,0
+36,Male,Current Smoker,No,176,Wheezing,None
+59,0,2,3,392,0,2
+27,1,0,3,224,0,0
+46,Male,Non-Smoker,No,192,Wheezing,None
+38,0,1,3,314,0,2
+62,0,0,3,347,0,0
+30,Male,Ex-Smoker,No,203,Coughing,None
+31,Female,Non-Smoker,No,351,No Symptoms,None
+25,0,0,3,304,0,0
+45,0,0,3,181,5,0
+27,0,1,3,159,5,0
+42,Male,Ex-Smoker,No,302,No Symptoms,None
+29,Male,Non-Smoker,No,332,No Symptoms,None
+18,1,2,3,183,5,0
+18,1,2,3,375,0,2
+26,Female,Non-Smoker,No,351,No Symptoms,None
+44,0,0,3,234,0,0
+45,Male,Non-Smoker,No,400,No Symptoms,None
+49,0,2,3,327,0,0
+42,0,1,3,274,0,0
+59,Female,Ex-Smoker,No,178,Wheezing,None
+28,Female,Ex-Smoker,No,278,No Symptoms,None
+34,Female,Current Smoker,No,334,No Symptoms,None
+64,Male,Current Smoker,No,154,Wheezing,None
+41,Female,Current Smoker,No,253,No Symptoms,None
+59,0,1,3,274,0,2
+38,1,2,3,364,0,0
+41,Female,Non-Smoker,No,199,Wheezing,None
+46,0,0,3,251,0,0
+37,0,2,3,248,0,2
+41,Female,Ex-Smoker,No,400,No Symptoms,None
+61,1,1,3,175,5,0
+41,Female,Ex-Smoker,No,169,Wheezing,None
+21,Male,Ex-Smoker,No,377,No Symptoms,None
+25,0,0,3,382,0,0
+33,0,0,3,304,0,0
+27,1,1,3,230,0,0
+41,0,0,3,375,0,0
+39,0,2,3,245,0,0
+22,Male,Current Smoker,No,277,No Symptoms,None
+28,1,1,3,320,0,0
+24,0,1,3,224,0,0
+46,0,1,3,389,0,2
+29,Male,Ex-Smoker,No,383,No Symptoms,None
+55,1,0,3,323,0,0
+35,0,0,3,329,0,0
+29,Male,Current Smoker,No,372,No Symptoms,None
+27,1,2,3,217,0,2
+23,1,0,3,333,0,0
+49,0,2,3,241,0,2
+37,0,2,3,261,0,0
+26,Female,Non-Smoker,No,337,No Symptoms,None
+52,0,1,3,189,5,0
+20,0,1,3,373,0,2
+29,Female,Non-Smoker,No,152,Wheezing,None
+60,1,0,3,297,0,0
+65,1,0,3,391,0,0
+64,Female,Current Smoker,No,232,Coughing,None
+20,Male,Non-Smoker,No,196,Wheezing,None
+59,0,0,3,268,0,0
+50,Male,Ex-Smoker,No,161,Wheezing,None
+59,0,0,3,248,0,0
+20,0,0,3,172,5,0
+48,1,0,3,282,0,0
+47,Male,Non-Smoker,No,254,No Symptoms,None
+65,Female,Ex-Smoker,No,395,No Symptoms,None
+23,1,0,3,337,0,0
+48,Male,Ex-Smoker,No,328,No Symptoms,None
+65,1,2,3,397,0,2
+54,Female,Current Smoker,No,334,No Symptoms,None
+38,Male,Ex-Smoker,No,220,Coughing,None
+24,Female,Current Smoker,No,271,No Symptoms,None
+60,Female,Ex-Smoker,No,228,Coughing,None
+27,1,2,3,332,0,0
+21,Female,Non-Smoker,No,231,Coughing,None
+52,0,0,3,175,5,0
+44,1,1,3,378,0,0
+22,Female,Current Smoker,No,320,No Symptoms,None
+30,Female,Ex-Smoker,No,277,No Symptoms,None
+19,Female,Current Smoker,No,161,Wheezing,None
+30,0,0,3,264,0,0
+61,Female,Non-Smoker,No,385,No Symptoms,None
+27,Female,Non-Smoker,No,375,No Symptoms,None
+45,1,1,3,398,0,2
+64,1,1,3,154,5,0
+29,0,1,3,296,0,0
+18,1,1,3,176,5,0
+56,Female,Ex-Smoker,No,301,No Symptoms,None
+30,1,2,3,351,0,0
+64,0,0,3,218,0,0
+26,Female,Current Smoker,No,210,Coughing,None
+45,Male,Non-Smoker,No,372,No Symptoms,None
+45,0,1,3,316,0,2
+64,0,1,3,164,5,0
+64,Male,Non-Smoker,No,328,No Symptoms,None
+58,0,0,3,315,0,0
+22,1,1,3,204,0,2
+39,1,1,3,257,0,0
+45,0,1,3,151,5,0
+33,1,1,3,352,0,2
+31,Female,Non-Smoker,No,226,Coughing,None
+63,Female,Current Smoker,No,310,No Symptoms,None
+63,Female,Current Smoker,No,289,No Symptoms,None
+46,0,1,3,218,0,0
+54,0,1,3,341,0,2
+21,0,0,3,217,0,0
+32,Male,Current Smoker,No,360,No Symptoms,None
+54,0,1,3,184,5,0
+58,Female,Current Smoker,No,283,No Symptoms,None
+19,Female,Current Smoker,No,213,Coughing,None
+42,Male,Current Smoker,No,265,No Symptoms,None
+40,Male,Current Smoker,No,231,Coughing,None
+43,1,1,3,349,0,0
+40,Male,Ex-Smoker,No,371,No Symptoms,None
+51,1,1,3,272,0,0
+32,0,2,3,334,0,2
+28,1,0,3,170,5,0
+59,1,2,3,212,0,2
+47,0,0,3,230,0,0
+19,1,2,3,384,0,0
+32,Female,Ex-Smoker,No,177,Wheezing,None
+43,0,2,3,206,0,0
+50,1,1,3,330,0,0
+29,Male,Non-Smoker,No,225,Coughing,None
+29,0,1,3,260,0,0
+48,1,0,3,211,0,0
+29,Male,Ex-Smoker,No,270,No Symptoms,None
+35,Female,Non-Smoker,No,260,No Symptoms,None
+51,Male,Ex-Smoker,No,332,No Symptoms,None
+65,0,1,3,229,0,0
+63,Female,Ex-Smoker,No,381,No Symptoms,None
+31,Female,Non-Smoker,No,188,Wheezing,None
+63,0,0,3,387,0,0
+42,Female,Non-Smoker,No,178,Wheezing,None
+44,1,2,3,198,5,0
+59,Male,Non-Smoker,No,187,Wheezing,None
+18,1,1,3,243,0,2
+53,Male,Ex-Smoker,No,286,No Symptoms,None
+49,1,2,3,300,0,0
+20,1,0,3,340,0,0
+30,Male,Ex-Smoker,No,293,No Symptoms,None
+21,0,0,3,253,0,0
+21,0,2,3,272,0,2
+21,0,1,3,262,0,0
+22,Male,Ex-Smoker,No,400,No Symptoms,None
+47,Female,Ex-Smoker,No,362,No Symptoms,None
+19,1,2,3,287,0,0
+28,0,1,3,350,0,2
+36,Female,Current Smoker,No,345,No Symptoms,None
+49,1,1,3,367,0,2
+25,Female,Current Smoker,No,283,No Symptoms,None
+20,Male,Ex-Smoker,No,202,Coughing,None
+25,Female,Non-Smoker,No,208,Coughing,None
+18,Male,Ex-Smoker,No,175,Wheezing,None
+59,Female,Current Smoker,No,332,No Symptoms,None

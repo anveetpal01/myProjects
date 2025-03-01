@@ -1,0 +1,301 @@
+,Patient_ID,Age,Gender,Smoking_Status,Asthma_Diagnosis,Medication,Peak_Flow,Symptoms,Severity
+0,1,26,Female,Non-Smoker,Yes,Inhaler,175,Wheezing & Shortness of Breath,Severe
+1,2,52,Female,Ex-Smoker,No,,156,Wheezing & Shortness of Breath,None
+2,3,56,Female,Ex-Smoker,Yes,Inhaler,236,Occasional Coughing,Moderate
+3,4,55,Male,Current Smoker,Yes,Controller Medication,378,Occasional Coughing,Severe
+4,5,43,Female,Current Smoker,No,,159,Wheezing & Shortness of Breath,None
+5,6,23,Male,Non-Smoker,No,,376,No Symptoms,None
+6,7,33,Female,Current Smoker,No,,296,No Symptoms,None
+7,8,20,Male,Current Smoker,Yes,Controller Medication,322,Occasional Coughing,Severe
+8,9,36,Male,Current Smoker,No,,175,Wheezing & Shortness of Breath,None
+9,10,27,Male,Ex-Smoker,No,,264,No Symptoms,None
+10,11,34,Female,Ex-Smoker,No,,240,Occasional Coughing,None
+11,12,43,Male,Current Smoker,No,,354,No Symptoms,None
+12,13,51,Female,Non-Smoker,Yes,Inhaler,171,Wheezing & Shortness of Breath,Severe
+13,14,54,Male,Non-Smoker,Yes,Inhaler,327,Occasional Coughing,Moderate
+14,15,22,Female,Current Smoker,Yes,Inhaler,304,Occasional Coughing,Severe
+15,16,53,Female,Non-Smoker,Yes,Controller Medication,336,Occasional Coughing,Severe
+16,17,39,Female,Current Smoker,Yes,Controller Medication,307,Occasional Coughing,Severe
+17,18,34,Male,Non-Smoker,Yes,Controller Medication,372,Occasional Coughing,Severe
+18,19,51,Male,Current Smoker,No,,239,Occasional Coughing,None
+19,20,37,Male,Non-Smoker,Yes,Controller Medication,309,Occasional Coughing,Severe
+20,21,52,Female,Ex-Smoker,No,,323,No Symptoms,None
+21,22,24,Female,Non-Smoker,No,,160,Wheezing & Shortness of Breath,None
+22,23,56,Female,Ex-Smoker,Yes,Controller Medication,286,Occasional Coughing,Severe
+23,24,23,Female,Current Smoker,Yes,Inhaler,282,Occasional Coughing,Severe
+24,25,58,Male,Non-Smoker,No,,248,Occasional Coughing,None
+25,26,27,Male,Ex-Smoker,No,,325,No Symptoms,None
+26,27,41,Male,Non-Smoker,No,,233,Occasional Coughing,None
+27,28,27,Male,Current Smoker,No,,346,No Symptoms,None
+28,29,63,Male,Current Smoker,No,,379,No Symptoms,None
+29,30,25,Female,Current Smoker,Yes,Inhaler,207,Occasional Coughing,Severe
+30,31,42,Male,Non-Smoker,Yes,Inhaler,168,Wheezing & Shortness of Breath,Severe
+31,32,18,Female,Non-Smoker,No,,200,Wheezing & Shortness of Breath,None
+32,33,22,Female,Ex-Smoker,Yes,Inhaler,323,Occasional Coughing,Moderate
+33,34,54,Male,Non-Smoker,Yes,Controller Medication,386,Occasional Coughing,Severe
+34,35,22,Female,Ex-Smoker,Yes,Controller Medication,257,Occasional Coughing,Severe
+35,36,34,Female,Current Smoker,Yes,Controller Medication,349,Occasional Coughing,Severe
+36,37,20,Male,Current Smoker,No,,273,No Symptoms,None
+37,38,43,Male,Current Smoker,No,,260,No Symptoms,None
+38,39,19,Male,Non-Smoker,No,,249,Occasional Coughing,None
+39,40,65,Female,Non-Smoker,Yes,Controller Medication,203,Occasional Coughing,Severe
+40,41,22,Female,Current Smoker,No,,384,No Symptoms,None
+41,42,58,Female,Current Smoker,Yes,Inhaler,253,Occasional Coughing,Severe
+42,43,59,Male,Current Smoker,Yes,Inhaler,383,Occasional Coughing,Severe
+43,44,54,Male,Ex-Smoker,Yes,Controller Medication,202,Occasional Coughing,Severe
+44,45,57,Female,Ex-Smoker,Yes,Inhaler,310,Occasional Coughing,Moderate
+45,46,45,Male,Non-Smoker,No,,287,No Symptoms,None
+46,47,62,Female,Ex-Smoker,No,,348,No Symptoms,None
+47,48,39,Male,Non-Smoker,Yes,Controller Medication,230,Occasional Coughing,Severe
+48,49,43,Female,Non-Smoker,No,,388,No Symptoms,None
+49,50,20,Male,Current Smoker,No,,331,No Symptoms,None
+50,51,59,Female,Non-Smoker,No,,288,No Symptoms,None
+51,52,21,Female,Non-Smoker,No,,378,No Symptoms,None
+52,53,58,Male,Current Smoker,No,,284,No Symptoms,None
+53,54,23,Male,Current Smoker,Yes,Controller Medication,205,Occasional Coughing,Severe
+54,55,48,Male,Current Smoker,No,,352,No Symptoms,None
+55,56,54,Female,Ex-Smoker,Yes,Inhaler,383,Occasional Coughing,Moderate
+56,57,47,Male,Ex-Smoker,No,,267,No Symptoms,None
+57,58,50,Male,Non-Smoker,No,,269,No Symptoms,None
+58,59,64,Female,Ex-Smoker,No,,398,No Symptoms,None
+59,60,52,Female,Ex-Smoker,No,,259,No Symptoms,None
+60,61,38,Male,Ex-Smoker,No,,307,No Symptoms,None
+61,62,28,Male,Ex-Smoker,No,,258,No Symptoms,None
+62,63,46,Male,Non-Smoker,Yes,Controller Medication,194,Wheezing & Shortness of Breath,Severe
+63,64,49,Male,Ex-Smoker,No,,157,Wheezing & Shortness of Breath,None
+64,65,60,Male,Ex-Smoker,Yes,Inhaler,207,Occasional Coughing,Moderate
+65,66,47,Male,Current Smoker,Yes,Controller Medication,382,Occasional Coughing,Severe
+66,67,24,Female,Current Smoker,Yes,Controller Medication,151,Wheezing & Shortness of Breath,Severe
+67,68,43,Male,Non-Smoker,No,,321,No Symptoms,None
+68,69,41,Female,Non-Smoker,Yes,Controller Medication,260,Occasional Coughing,Severe
+69,70,49,Male,Ex-Smoker,No,,284,No Symptoms,None
+70,71,50,Female,Non-Smoker,Yes,Controller Medication,176,Wheezing & Shortness of Breath,Severe
+71,72,20,Male,Non-Smoker,No,,248,Occasional Coughing,None
+72,73,58,Female,Non-Smoker,Yes,Inhaler,270,Occasional Coughing,Moderate
+73,74,28,Female,Current Smoker,Yes,Controller Medication,389,Occasional Coughing,Severe
+74,75,39,Male,Non-Smoker,No,,357,No Symptoms,None
+75,76,65,Male,Non-Smoker,Yes,Inhaler,280,Occasional Coughing,Moderate
+76,77,43,Female,Ex-Smoker,Yes,Inhaler,397,Occasional Coughing,Moderate
+77,78,32,Female,Current Smoker,Yes,Controller Medication,200,Wheezing & Shortness of Breath,Severe
+78,79,63,Female,Non-Smoker,Yes,Controller Medication,212,Occasional Coughing,Severe
+79,80,58,Female,Ex-Smoker,No,,300,No Symptoms,None
+80,81,22,Female,Ex-Smoker,Yes,Controller Medication,294,Occasional Coughing,Severe
+81,82,37,Male,Ex-Smoker,Yes,Inhaler,358,Occasional Coughing,Moderate
+82,83,52,Female,Ex-Smoker,Yes,Inhaler,198,Wheezing & Shortness of Breath,Severe
+83,84,51,Male,Current Smoker,Yes,Controller Medication,263,Occasional Coughing,Severe
+84,85,25,Female,Current Smoker,Yes,Controller Medication,200,Wheezing & Shortness of Breath,Severe
+85,86,30,Male,Ex-Smoker,No,,159,Wheezing & Shortness of Breath,None
+86,87,53,Male,Ex-Smoker,No,,152,Wheezing & Shortness of Breath,None
+87,88,38,Female,Ex-Smoker,No,,267,No Symptoms,None
+88,89,45,Male,Current Smoker,Yes,Inhaler,237,Occasional Coughing,Severe
+89,90,38,Female,Ex-Smoker,No,,286,No Symptoms,None
+90,91,23,Male,Non-Smoker,No,,363,No Symptoms,None
+91,92,36,Female,Non-Smoker,No,,380,No Symptoms,None
+92,93,38,Female,Ex-Smoker,Yes,Controller Medication,305,Occasional Coughing,Severe
+93,94,34,Male,Current Smoker,No,,218,Occasional Coughing,None
+94,95,29,Female,Non-Smoker,No,,185,Wheezing & Shortness of Breath,None
+95,96,23,Male,Non-Smoker,No,,181,Wheezing & Shortness of Breath,None
+96,97,36,Male,Ex-Smoker,No,,336,No Symptoms,None
+97,98,46,Female,Non-Smoker,Yes,Inhaler,262,Occasional Coughing,Moderate
+98,99,34,Female,Non-Smoker,Yes,Inhaler,188,Wheezing & Shortness of Breath,Severe
+99,100,23,Male,Ex-Smoker,Yes,Inhaler,384,Occasional Coughing,Moderate
+100,101,45,Male,Ex-Smoker,Yes,Controller Medication,210,Occasional Coughing,Severe
+101,102,33,Male,Current Smoker,No,,338,No Symptoms,None
+102,103,27,Male,Non-Smoker,No,,294,No Symptoms,None
+103,104,34,Female,Current Smoker,No,,301,No Symptoms,None
+104,105,27,Male,Ex-Smoker,No,,322,No Symptoms,None
+105,106,47,Female,Non-Smoker,Yes,Controller Medication,263,Occasional Coughing,Severe
+106,107,21,Male,Ex-Smoker,Yes,Inhaler,308,Occasional Coughing,Moderate
+107,108,44,Female,Non-Smoker,Yes,Inhaler,377,Occasional Coughing,Moderate
+108,109,44,Male,Non-Smoker,Yes,Inhaler,289,Occasional Coughing,Moderate
+109,110,52,Male,Ex-Smoker,No,,197,Wheezing & Shortness of Breath,None
+110,111,26,Male,Current Smoker,Yes,Inhaler,337,Occasional Coughing,Severe
+111,112,48,Male,Current Smoker,Yes,Controller Medication,346,Occasional Coughing,Severe
+112,113,27,Male,Current Smoker,Yes,Controller Medication,385,Occasional Coughing,Severe
+113,114,24,Female,Non-Smoker,No,,281,No Symptoms,None
+114,115,34,Female,Ex-Smoker,No,,358,No Symptoms,None
+115,116,49,Male,Current Smoker,No,,212,Occasional Coughing,None
+116,117,65,Male,Non-Smoker,No,,268,No Symptoms,None
+117,118,30,Female,Non-Smoker,Yes,Inhaler,372,Occasional Coughing,Moderate
+118,119,62,Female,Non-Smoker,No,,377,No Symptoms,None
+119,120,45,Female,Current Smoker,Yes,Controller Medication,383,Occasional Coughing,Severe
+120,121,58,Female,Non-Smoker,Yes,Controller Medication,316,Occasional Coughing,Severe
+121,122,48,Male,Non-Smoker,Yes,Inhaler,245,Occasional Coughing,Moderate
+122,123,63,Female,Ex-Smoker,Yes,Inhaler,162,Wheezing & Shortness of Breath,Severe
+123,124,48,Male,Ex-Smoker,No,,348,No Symptoms,None
+124,125,51,Male,Non-Smoker,Yes,Inhaler,232,Occasional Coughing,Moderate
+125,126,26,Female,Current Smoker,No,,184,Wheezing & Shortness of Breath,None
+126,127,23,Female,Current Smoker,No,,182,Wheezing & Shortness of Breath,None
+127,128,27,Female,Ex-Smoker,No,,215,Occasional Coughing,None
+128,129,43,Female,Non-Smoker,No,,276,No Symptoms,None
+129,130,32,Female,Current Smoker,Yes,Inhaler,357,Occasional Coughing,Severe
+130,131,23,Female,Non-Smoker,Yes,Controller Medication,390,Occasional Coughing,Severe
+131,132,29,Female,Ex-Smoker,Yes,Controller Medication,295,Occasional Coughing,Severe
+132,133,29,Male,Non-Smoker,No,,376,No Symptoms,None
+133,134,30,Female,Non-Smoker,No,,261,No Symptoms,None
+134,135,24,Male,Ex-Smoker,No,,254,No Symptoms,None
+135,136,27,Female,Current Smoker,No,,226,Occasional Coughing,None
+136,137,52,Male,Current Smoker,No,,363,No Symptoms,None
+137,138,34,Female,Current Smoker,No,,381,No Symptoms,None
+138,139,29,Female,Current Smoker,Yes,Controller Medication,162,Wheezing & Shortness of Breath,Severe
+139,140,52,Female,Non-Smoker,Yes,Controller Medication,207,Occasional Coughing,Severe
+140,141,24,Female,Non-Smoker,Yes,Controller Medication,280,Occasional Coughing,Severe
+141,142,41,Male,Current Smoker,Yes,Controller Medication,150,Shortness of Breath & Fatigue,Severe
+142,143,65,Male,Current Smoker,Yes,Inhaler,178,Wheezing & Shortness of Breath,Severe
+143,144,33,Male,Ex-Smoker,No,,290,No Symptoms,None
+144,145,21,Male,Current Smoker,Yes,Controller Medication,376,Occasional Coughing,Severe
+145,146,36,Male,Current Smoker,No,,176,Wheezing & Shortness of Breath,None
+146,147,59,Female,Ex-Smoker,Yes,Inhaler,392,Occasional Coughing,Moderate
+147,148,27,Male,Current Smoker,Yes,Inhaler,224,Occasional Coughing,Severe
+148,149,46,Male,Non-Smoker,No,,192,Wheezing & Shortness of Breath,None
+149,150,38,Female,Non-Smoker,Yes,Inhaler,314,Occasional Coughing,Moderate
+150,151,62,Female,Current Smoker,Yes,Controller Medication,347,Occasional Coughing,Severe
+151,152,30,Male,Ex-Smoker,No,,203,Occasional Coughing,None
+152,153,31,Female,Non-Smoker,No,,351,No Symptoms,None
+153,154,25,Female,Current Smoker,Yes,Inhaler,304,Occasional Coughing,Severe
+154,155,45,Female,Current Smoker,Yes,Inhaler,181,Wheezing & Shortness of Breath,Severe
+155,156,27,Female,Non-Smoker,Yes,Controller Medication,159,Wheezing & Shortness of Breath,Severe
+156,157,42,Male,Ex-Smoker,No,,302,No Symptoms,None
+157,158,29,Male,Non-Smoker,No,,332,No Symptoms,None
+158,159,18,Male,Ex-Smoker,Yes,Inhaler,183,Wheezing & Shortness of Breath,Severe
+159,160,18,Male,Ex-Smoker,Yes,Inhaler,375,Occasional Coughing,Moderate
+160,161,26,Female,Non-Smoker,No,,351,No Symptoms,None
+161,162,44,Female,Current Smoker,Yes,Controller Medication,234,Occasional Coughing,Severe
+162,163,45,Male,Non-Smoker,No,,400,No Symptoms,None
+163,164,49,Female,Ex-Smoker,Yes,Controller Medication,327,Occasional Coughing,Severe
+164,165,42,Female,Non-Smoker,Yes,Controller Medication,274,Occasional Coughing,Severe
+165,166,59,Female,Ex-Smoker,No,,178,Wheezing & Shortness of Breath,None
+166,167,28,Female,Ex-Smoker,No,,278,No Symptoms,None
+167,168,34,Female,Current Smoker,No,,334,No Symptoms,None
+168,169,64,Male,Current Smoker,No,,154,Wheezing & Shortness of Breath,None
+169,170,41,Female,Current Smoker,No,,253,No Symptoms,None
+170,171,59,Female,Non-Smoker,Yes,Inhaler,274,Occasional Coughing,Moderate
+171,172,38,Male,Ex-Smoker,Yes,Controller Medication,364,Occasional Coughing,Severe
+172,173,41,Female,Non-Smoker,No,,199,Wheezing & Shortness of Breath,None
+173,174,46,Female,Current Smoker,Yes,Inhaler,251,Occasional Coughing,Severe
+174,175,37,Female,Ex-Smoker,Yes,Inhaler,248,Occasional Coughing,Moderate
+175,176,41,Female,Ex-Smoker,No,,400,No Symptoms,None
+176,177,61,Male,Non-Smoker,Yes,Controller Medication,175,Wheezing & Shortness of Breath,Severe
+177,178,41,Female,Ex-Smoker,No,,169,Wheezing & Shortness of Breath,None
+178,179,21,Male,Ex-Smoker,No,,377,No Symptoms,None
+179,180,25,Female,Current Smoker,Yes,Controller Medication,382,Occasional Coughing,Severe
+180,181,33,Female,Current Smoker,Yes,Inhaler,304,Occasional Coughing,Severe
+181,182,27,Male,Non-Smoker,Yes,Controller Medication,230,Occasional Coughing,Severe
+182,183,41,Female,Current Smoker,Yes,Controller Medication,375,Occasional Coughing,Severe
+183,184,39,Female,Ex-Smoker,Yes,Controller Medication,245,Occasional Coughing,Severe
+184,185,22,Male,Current Smoker,No,,277,No Symptoms,None
+185,186,28,Male,Non-Smoker,Yes,Controller Medication,320,Occasional Coughing,Severe
+186,187,24,Female,Non-Smoker,Yes,Controller Medication,224,Occasional Coughing,Severe
+187,188,46,Female,Non-Smoker,Yes,Inhaler,389,Occasional Coughing,Moderate
+188,189,29,Male,Ex-Smoker,No,,383,No Symptoms,None
+189,190,55,Male,Current Smoker,Yes,Inhaler,323,Occasional Coughing,Severe
+190,191,35,Female,Current Smoker,Yes,Controller Medication,329,Occasional Coughing,Severe
+191,192,29,Male,Current Smoker,No,,372,No Symptoms,None
+192,193,27,Male,Ex-Smoker,Yes,Inhaler,217,Occasional Coughing,Moderate
+193,194,23,Male,Current Smoker,Yes,Inhaler,333,Occasional Coughing,Severe
+194,195,49,Female,Ex-Smoker,Yes,Inhaler,241,Occasional Coughing,Moderate
+195,196,37,Female,Ex-Smoker,Yes,Controller Medication,261,Occasional Coughing,Severe
+196,197,26,Female,Non-Smoker,No,,337,No Symptoms,None
+197,198,52,Female,Non-Smoker,Yes,Inhaler,189,Wheezing & Shortness of Breath,Severe
+198,199,20,Female,Non-Smoker,Yes,Inhaler,373,Occasional Coughing,Moderate
+199,200,29,Female,Non-Smoker,No,,152,Wheezing & Shortness of Breath,None
+200,201,60,Male,Current Smoker,Yes,Controller Medication,297,Occasional Coughing,Severe
+201,202,65,Male,Current Smoker,Yes,Inhaler,391,Occasional Coughing,Severe
+202,203,64,Female,Current Smoker,No,,232,Occasional Coughing,None
+203,204,20,Male,Non-Smoker,No,,196,Wheezing & Shortness of Breath,None
+204,205,59,Female,Current Smoker,Yes,Controller Medication,268,Occasional Coughing,Severe
+205,206,50,Male,Ex-Smoker,No,,161,Wheezing & Shortness of Breath,None
+206,207,59,Female,Current Smoker,Yes,Controller Medication,248,Occasional Coughing,Severe
+207,208,20,Female,Current Smoker,Yes,Inhaler,172,Wheezing & Shortness of Breath,Severe
+208,209,48,Male,Current Smoker,Yes,Inhaler,282,Occasional Coughing,Severe
+209,210,47,Male,Non-Smoker,No,,254,No Symptoms,None
+210,211,65,Female,Ex-Smoker,No,,395,No Symptoms,None
+211,212,23,Male,Current Smoker,Yes,Inhaler,337,Occasional Coughing,Severe
+212,213,48,Male,Ex-Smoker,No,,328,No Symptoms,None
+213,214,65,Male,Ex-Smoker,Yes,Inhaler,397,Occasional Coughing,Moderate
+214,215,54,Female,Current Smoker,No,,334,No Symptoms,None
+215,216,38,Male,Ex-Smoker,No,,220,Occasional Coughing,None
+216,217,24,Female,Current Smoker,No,,271,No Symptoms,None
+217,218,60,Female,Ex-Smoker,No,,228,Occasional Coughing,None
+218,219,27,Male,Ex-Smoker,Yes,Controller Medication,332,Occasional Coughing,Severe
+219,220,21,Female,Non-Smoker,No,,231,Occasional Coughing,None
+220,221,52,Female,Current Smoker,Yes,Controller Medication,175,Wheezing & Shortness of Breath,Severe
+221,222,44,Male,Non-Smoker,Yes,Controller Medication,378,Occasional Coughing,Severe
+222,223,22,Female,Current Smoker,No,,320,No Symptoms,None
+223,224,30,Female,Ex-Smoker,No,,277,No Symptoms,None
+224,225,19,Female,Current Smoker,No,,161,Wheezing & Shortness of Breath,None
+225,226,30,Female,Current Smoker,Yes,Inhaler,264,Occasional Coughing,Severe
+226,227,61,Female,Non-Smoker,No,,385,No Symptoms,None
+227,228,27,Female,Non-Smoker,No,,375,No Symptoms,None
+228,229,45,Male,Non-Smoker,Yes,Inhaler,398,Occasional Coughing,Moderate
+229,230,64,Male,Non-Smoker,Yes,Controller Medication,154,Wheezing & Shortness of Breath,Severe
+230,231,29,Female,Non-Smoker,Yes,Controller Medication,296,Occasional Coughing,Severe
+231,232,18,Male,Non-Smoker,Yes,Controller Medication,176,Wheezing & Shortness of Breath,Severe
+232,233,56,Female,Ex-Smoker,No,,301,No Symptoms,None
+233,234,30,Male,Ex-Smoker,Yes,Controller Medication,351,Occasional Coughing,Severe
+234,235,64,Female,Current Smoker,Yes,Controller Medication,218,Occasional Coughing,Severe
+235,236,26,Female,Current Smoker,No,,210,Occasional Coughing,None
+236,237,45,Male,Non-Smoker,No,,372,No Symptoms,None
+237,238,45,Female,Non-Smoker,Yes,Inhaler,316,Occasional Coughing,Moderate
+238,239,64,Female,Non-Smoker,Yes,Inhaler,164,Wheezing & Shortness of Breath,Severe
+239,240,64,Male,Non-Smoker,No,,328,No Symptoms,None
+240,241,58,Female,Current Smoker,Yes,Inhaler,315,Occasional Coughing,Severe
+241,242,22,Male,Non-Smoker,Yes,Inhaler,204,Occasional Coughing,Moderate
+242,243,39,Male,Non-Smoker,Yes,Controller Medication,257,Occasional Coughing,Severe
+243,244,45,Female,Non-Smoker,Yes,Inhaler,151,Wheezing & Shortness of Breath,Severe
+244,245,33,Male,Non-Smoker,Yes,Inhaler,352,Occasional Coughing,Moderate
+245,246,31,Female,Non-Smoker,No,,226,Occasional Coughing,None
+246,247,63,Female,Current Smoker,No,,310,No Symptoms,None
+247,248,63,Female,Current Smoker,No,,289,No Symptoms,None
+248,249,46,Female,Non-Smoker,Yes,Controller Medication,218,Occasional Coughing,Severe
+249,250,54,Female,Non-Smoker,Yes,Inhaler,341,Occasional Coughing,Moderate
+250,251,21,Female,Current Smoker,Yes,Controller Medication,217,Occasional Coughing,Severe
+251,252,32,Male,Current Smoker,No,,360,No Symptoms,None
+252,253,54,Female,Non-Smoker,Yes,Controller Medication,184,Wheezing & Shortness of Breath,Severe
+253,254,58,Female,Current Smoker,No,,283,No Symptoms,None
+254,255,19,Female,Current Smoker,No,,213,Occasional Coughing,None
+255,256,42,Male,Current Smoker,No,,265,No Symptoms,None
+256,257,40,Male,Current Smoker,No,,231,Occasional Coughing,None
+257,258,43,Male,Non-Smoker,Yes,Controller Medication,349,Occasional Coughing,Severe
+258,259,40,Male,Ex-Smoker,No,,371,No Symptoms,None
+259,260,51,Male,Non-Smoker,Yes,Controller Medication,272,Occasional Coughing,Severe
+260,261,32,Female,Ex-Smoker,Yes,Inhaler,334,Occasional Coughing,Moderate
+261,262,28,Male,Current Smoker,Yes,Inhaler,170,Wheezing & Shortness of Breath,Severe
+262,263,59,Male,Ex-Smoker,Yes,Inhaler,212,Occasional Coughing,Moderate
+263,264,47,Female,Current Smoker,Yes,Controller Medication,230,Occasional Coughing,Severe
+264,265,19,Male,Ex-Smoker,Yes,Controller Medication,384,Occasional Coughing,Severe
+265,266,32,Female,Ex-Smoker,No,,177,Wheezing & Shortness of Breath,None
+266,267,43,Female,Ex-Smoker,Yes,Controller Medication,206,Occasional Coughing,Severe
+267,268,50,Male,Non-Smoker,Yes,Controller Medication,330,Occasional Coughing,Severe
+268,269,29,Male,Non-Smoker,No,,225,Occasional Coughing,None
+269,270,29,Female,Non-Smoker,Yes,Controller Medication,260,Occasional Coughing,Severe
+270,271,48,Male,Current Smoker,Yes,Inhaler,211,Occasional Coughing,Severe
+271,272,29,Male,Ex-Smoker,No,,270,No Symptoms,None
+272,273,35,Female,Non-Smoker,No,,260,No Symptoms,None
+273,274,51,Male,Ex-Smoker,No,,332,No Symptoms,None
+274,275,65,Female,Non-Smoker,Yes,Controller Medication,229,Occasional Coughing,Severe
+275,276,63,Female,Ex-Smoker,No,,381,No Symptoms,None
+276,277,31,Female,Non-Smoker,No,,188,Wheezing & Shortness of Breath,None
+277,278,63,Female,Current Smoker,Yes,Controller Medication,387,Occasional Coughing,Severe
+278,279,42,Female,Non-Smoker,No,,178,Wheezing & Shortness of Breath,None
+279,280,44,Male,Ex-Smoker,Yes,Controller Medication,198,Wheezing & Shortness of Breath,Severe
+280,281,59,Male,Non-Smoker,No,,187,Wheezing & Shortness of Breath,None
+281,282,18,Male,Non-Smoker,Yes,Inhaler,243,Occasional Coughing,Moderate
+282,283,53,Male,Ex-Smoker,No,,286,No Symptoms,None
+283,284,49,Male,Ex-Smoker,Yes,Controller Medication,300,Occasional Coughing,Severe
+284,285,20,Male,Current Smoker,Yes,Controller Medication,340,Occasional Coughing,Severe
+285,286,30,Male,Ex-Smoker,No,,293,No Symptoms,None
+286,287,21,Female,Current Smoker,Yes,Controller Medication,253,Occasional Coughing,Severe
+287,288,21,Female,Ex-Smoker,Yes,Inhaler,272,Occasional Coughing,Moderate
+288,289,21,Female,Non-Smoker,Yes,Controller Medication,262,Occasional Coughing,Severe
+289,290,22,Male,Ex-Smoker,No,,400,No Symptoms,None
+290,291,47,Female,Ex-Smoker,No,,362,No Symptoms,None
+291,292,19,Male,Ex-Smoker,Yes,Controller Medication,287,Occasional Coughing,Severe
+292,293,28,Female,Non-Smoker,Yes,Inhaler,350,Occasional Coughing,Moderate
+293,294,36,Female,Current Smoker,No,,345,No Symptoms,None
+294,295,49,Male,Non-Smoker,Yes,Inhaler,367,Occasional Coughing,Moderate
+295,296,25,Female,Current Smoker,No,,283,No Symptoms,None
+296,297,20,Male,Ex-Smoker,No,,202,Occasional Coughing,None
+297,298,25,Female,Non-Smoker,No,,208,Occasional Coughing,None
+298,299,18,Male,Ex-Smoker,No,,175,Wheezing & Shortness of Breath,None
+299,300,59,Female,Current Smoker,No,,332,No Symptoms,None
