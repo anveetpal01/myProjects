@@ -4,23 +4,27 @@ import numpy as np
 import pandas as pd
 import logging
 import os
-from encoders.encoders import encode_input, decode_severity, decode_treatment
 import pickle
+from encoders.encoders import encode_input, decode_severity, decode_treatment
 
 app = Flask(__name__)
 
-# Set up logging
-if not os.path.exists("logs"):
-    os.makedirs("logs")
+# Create logs directory if it doesn't exist
+os.makedirs("logs", exist_ok=True)
 
+# Configure logging
 logging.basicConfig(filename="logs/api.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Load models
-with open("models/xgboost_model_severity_pred2.pkl", "rb") as file:
-    severity_model = pickle.load(file)
+try:
+    with open("models/xgboost_model_severity_pred2.pkl", "rb") as file:
+        severity_model = pickle.load(file)
 
-with open("models/xgboost_model_treat_pred.pkl", "rb") as file:
-    treatment_model = pickle.load(file)
+    with open("models/xgboost_model_treat_pred.pkl", "rb") as file:
+        treatment_model = pickle.load(file)
+except Exception as e:
+    logging.error(f"Error loading models: {str(e)}")
+    raise RuntimeError("Failed to load models. Please check model paths and files.") from e
 
 @app.route("/predict", methods=["POST"])
 def predict():
@@ -30,44 +34,51 @@ def predict():
         if not data:
             return jsonify({"error": "No input provided"}), 400
 
-        # Encode input for severity prediction
-        encoded_input = encode_input(data)
-        if "error" in encoded_input:
-            return jsonify(encoded_input), 400
+        # Ensure input is a list (to support multiple patients)
+        if isinstance(data, dict):
+            data = [data]  # Convert single patient input to a list
 
-        # Correct the feature order for severity model
+        # Encode inputs for severity prediction
+        encoded_inputs = [encode_input(patient) for patient in data]
+
+        # Check if any encoding errors occurred
+        for encoded_input in encoded_inputs:
+            if "error" in encoded_input:
+                return jsonify(encoded_input), 400
+
+        # Define feature order for severity model
         severity_features = ['Age', 'Gender_encoded', 'Smoking_Status_encoded', 'Asthma_Diagnosis_encoded', 'Symptoms_encoded', 'Peak_Flow']
-        df_severity = pd.DataFrame([encoded_input])[severity_features]
+        df_severity = pd.DataFrame(encoded_inputs)[severity_features]
 
-        
-        severity_pred = int(severity_model.predict(pd.DataFrame([encoded_input]))[0])
+        # Predict severity for all patients
+        severity_preds = severity_model.predict(df_severity)
+        severity_labels = [decode_severity(int(pred)) for pred in severity_preds]
 
-        # Decode severity prediction
-        severity_label = decode_severity(severity_pred)
+        # Prepare treatment model inputs
+        treatment_inputs = [
+            {
+                "Symptoms_encoded": encoded_inputs[i]["Symptoms_encoded"],
+                "Sex_encoded": encoded_inputs[i]["Gender_encoded"],
+                "Age": encoded_inputs[i]["Age"],
+                "Disease_encoded": 3,  # Asthma -> Disease_encoded (always 3)
+                "Nature_encoded": int(severity_preds[i])  # Severity output -> Nature_encoded
+            }
+            for i in range(len(data))
+        ]
 
-        # Create input for treatment model (internally transformed)
-        treatment_input = {
-            "Symptoms_encoded": encoded_input["Symptoms_encoded"],
-            "Sex_encoded": encoded_input["Gender_encoded"],  # Gender -> Sex_encoded
-            "Age": encoded_input["Age"],
-            "Disease_encoded": 3,  # Asthma -> Disease_encoded (always 3)
-            "Nature_encoded": severity_pred  # Severity output -> Nature_encoded
-        }
-
-        # Correct feature order for treatment model
+        # Define feature order for treatment model
         treatment_features = ['Symptoms_encoded', 'Sex_encoded', 'Age', 'Disease_encoded', 'Nature_encoded']
-        df_treatment = pd.DataFrame([treatment_input])[treatment_features]
+        df_treatment = pd.DataFrame(treatment_inputs)[treatment_features]
 
-        treatment_pred = int(treatment_model.predict(pd.DataFrame([treatment_input]))[0])
+        # Predict treatment for all patients
+        treatment_preds = treatment_model.predict(df_treatment)
+        treatment_labels = [decode_treatment(int(pred)) for pred in treatment_preds]
 
-        # Decode treatment prediction
-        treatment_label = decode_treatment(treatment_pred)
-
-        # Prepare final response
-        response = {
-            "Severity": severity_label,
-            "Treatment": treatment_label
-        }
+        # Prepare and return response
+        response = [
+            {"Severity": severity_labels[i], "Treatment": treatment_labels[i]}
+            for i in range(len(data))
+        ]
 
         logging.info(f"Input: {data}, Response: {response}")
         return jsonify(response)
